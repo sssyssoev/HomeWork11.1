@@ -10,7 +10,7 @@ import java.util.Scanner;
             task1();
             task2();
             task3();
-            System.out.println(" Попытка сдать 11-е ДЗ");
+            System.out.println(" Попытка сдать 11-е ДЗ со второго раза");
         }
 
         public static int enterInt(String str) {
